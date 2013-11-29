@@ -25,3 +25,7 @@ More fields are available, have a look at http://www.yellowapi.com/docs/places/ 
 
 Write to jeremy.osborn@gmail.com with questions.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jeremydosborn/yellowapi-python/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
