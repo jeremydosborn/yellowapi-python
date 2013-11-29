@@ -10,8 +10,8 @@ http://www.yellowapi.com/branding/
 API is accessed in three steps:
 
 1. Create an instance of the YellowAPI class.
-2. Make a call to the find_businesses method, and retrieve general business listings.
-3. Make a call to the get_business_details method to retrieve specific data fields for each business in #2.
+2. Call the find_businesses method, and retrieve general business listings.
+3. Call the get_business_details method to retrieve specific data fields for each business in #2.
 
 This module usess xml.etree.ElementTree and passes a root object containing the business listings from find_businesses to the get_business_details method. 
 
@@ -21,7 +21,7 @@ This module includes the following subset of the API fields available for each b
 
 name, street, city, province, postal, phones, logo, url
 
-More fields are availabe, have a look at http://www.yellowapi.com/docs/places/ for more detail.
+More fields are available, have a look at http://www.yellowapi.com/docs/places/ for more detail.
 
 Write to jeremy.osborn@gmail.com with questions.
 
