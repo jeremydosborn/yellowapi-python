@@ -1,7 +1,7 @@
 yellowapi-python
 ================
 
-Python module for consuming the Yellow Pages "Places" API.
+Python wrapper for the Yellow Pages "Places" API.
 
 Be sure you read this before getting too far:
 
