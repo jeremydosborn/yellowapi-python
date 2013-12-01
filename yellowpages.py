@@ -73,7 +73,6 @@ class YellowAPI:
 
                 business = (name, street, city, province, postal, phones, logo, url)
                 businessdetails.append(business)
-                print len(businessdetails)
 
             except AttributeError as a:
                 if self.errlogpath:
