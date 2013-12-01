@@ -86,6 +86,5 @@ def main():
                        "/Users/legerton/Desktop/")
     yellow.find_businesses()
     businessdetails = yellow.get_business_details()
-    print businessdetails
 
 main()
