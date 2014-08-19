@@ -83,7 +83,7 @@ class YellowAPI:
 
 def main():
     yellow = YellowAPI("restaurant", "some city", "someprovince", 10, "127.0.0.1", "yourapikeyhere",
-                       "/Users/legerton/Desktop/")
+                       "/Users/someuser/somefolder/")
     yellow.find_businesses()
     businessdetails = yellow.get_business_details()
 
